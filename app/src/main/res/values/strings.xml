@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParcialRepetidoEj1</string>
+    <string name="invalid_email">Correo invalido</string>
+    <string name="invalid_password">Contraseña invalida</string>
+</resources>
